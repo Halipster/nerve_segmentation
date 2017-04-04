@@ -4,6 +4,6 @@ This is the code i used for ultrasound image segmentation.
 
 
 
-![Architecture](/diagramme.png)
+![Architecture](/diagramme.PNG)
 Format: ![Alt Text](url)
 
